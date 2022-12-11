@@ -1,0 +1,39 @@
+{
+    "historial":[
+    {
+      "id": 1,
+      "fecha": "20/09/2022",
+      "origen": "Marchant Pereira 1840, Providencia",
+      "destino": "Alameda 850, Santiago",
+      "conductor": "Pablo Gonzalez Soto"
+    },
+    {
+        "id": 2,
+        "fecha": "03/09/2022",
+        "origen": "Gran Avenida 12345",
+        "destino": "Arturo Prat 58",
+        "conductor": "Juan Plaza Soto"
+    },
+    {
+        "id": 3,
+        "fecha": "29/08/2022",
+        "origen": "Jaime Eyzaguirre 3355",
+        "destino": "La Dehesa 12645",
+        "conductor": "Cristobal Cabezas Espinoza"
+    },
+    {
+        "id": 4,
+        "fecha": "18/08/2022",
+        "origen": "Geronimo de Alderete 476",
+        "destino": "Antonio Varas 666",
+        "conductor": "Perico Los Palotes"
+    },
+    {
+        "id": 5,
+        "fecha": "30/07/2022",
+        "origen": "Nueva Providencia 10456",
+        "destino": "Teatinos 854",
+        "conductor": "Diego Cares"
+    }
+    ]
+}
